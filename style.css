@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.color-important{
+    color: green;
+}
+
+.nav-logo{
+    width: 40%;
+}
+
+.nav-menu{
+    width: 60%;
+}
+
+h1{
+    font-size: 50px;
+}
+h1{
+    font-size: 40px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.flex-responsive{
+    display: flex;
+}
+a{
+text-decoration: none;
+color: lightcoral;
+}
+ul{
+    list-style-type: none;
+    display: inline-flex;
+}
+li{
+    padding-left: 10px;
+}
