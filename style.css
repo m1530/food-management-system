@@ -8,7 +8,7 @@ section{
 }
 
 .color-important{
-    color: green;
+    color: rgb(91, 217, 255);
 }
 
 .nav-logo{
@@ -91,9 +91,14 @@ color: lightcoral;
     border-radius: 10px;
     box-shadow: 0 0 30px grey;
  }
+ #recipie-menu-area{
+    padding-left: 10%;
+    padding-right: 10%;
+ }
 
  .recipie-image{
      width: 100%;
+     border-radius: 10px;
  }
 
  .recipie-add{
