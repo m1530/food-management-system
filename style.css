@@ -2,6 +2,10 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+section{
+    margin-bottom: 40px;
+}
+
 .color-important{
     color: green;
 }
@@ -13,6 +17,9 @@ body{
 .nav-menu{
     width: 60%;
 }
+.header{
+    padding-left: 5%;
+}
 
 h1{
     font-size: 50px;
@@ -23,6 +30,7 @@ h1{
 
 .half-width{
     width: 50%;
+    padding-left: 7%;
 }
 
 .flex-responsive{
@@ -39,3 +47,40 @@ ul{
 li{
     padding-left: 10px;
 }
+.main-artical-image img{
+    width: 80%;
+}
+
+.link-button{
+    padding: 10px 20px;
+    background-image: linear-gradient(red, tomato);
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+.main-artical{
+    padding-top: 7%;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-top: 4%;
+}
+
+.about-me-image img{
+    width: 55%;
+}
+.recipie-width{
+    width: 33.33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px grey;
+ }
+ .recipie-image{
+     width: 100%;
+ }
