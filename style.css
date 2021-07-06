@@ -22,12 +22,13 @@ section{
 }
 #nav-logo img{
     width: 15%;
-   background-color: turquoise;
-   border-radius: 60%;
+    background-color: turquoise;
+    border-radius: 60%;
 }
 
 #nav-menu{
     width: 60%;
+    padding-left: 20%;
 }
 
 #nav-menu ul{
